@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: #444;
+    text-align: center;
+}
+
+ul {
+    justify-content: center;
+    font-size: 36px;
+}

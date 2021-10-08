@@ -1,0 +1,11 @@
+img {
+    margin-left: 20px;
+    transform: rotate(90deg);
+    white-space: nowrap;
+    width: 200px;
+    height:auto;
+}
+body {
+    background-color: black;
+    color: #555;
+}
